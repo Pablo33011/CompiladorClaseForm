@@ -1,0 +1,7 @@
+C:\Users\NubitSupport\Documents\Compiladres\CompiladorForm\CompiladorClaseForm\CompiladorClaseForm\obj\Debug\net6.0-windows\CompiladorClaseForm.csproj.AssemblyReference.cache
+C:\Users\NubitSupport\Documents\Compiladres\CompiladorForm\CompiladorClaseForm\CompiladorClaseForm\obj\Debug\net6.0-windows\CompiladorClaseForm.Form1.resources
+C:\Users\NubitSupport\Documents\Compiladres\CompiladorForm\CompiladorClaseForm\CompiladorClaseForm\obj\Debug\net6.0-windows\CompiladorClaseForm.csproj.GenerateResource.cache
+C:\Users\NubitSupport\Documents\Compiladres\CompiladorForm\CompiladorClaseForm\CompiladorClaseForm\obj\Debug\net6.0-windows\CompiladorClaseForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NubitSupport\Documents\Compiladres\CompiladorForm\CompiladorClaseForm\CompiladorClaseForm\obj\Debug\net6.0-windows\CompiladorClaseForm.AssemblyInfoInputs.cache
+C:\Users\NubitSupport\Documents\Compiladres\CompiladorForm\CompiladorClaseForm\CompiladorClaseForm\obj\Debug\net6.0-windows\CompiladorClaseForm.AssemblyInfo.cs
+C:\Users\NubitSupport\Documents\Compiladres\CompiladorForm\CompiladorClaseForm\CompiladorClaseForm\obj\Debug\net6.0-windows\CompiladorClaseForm.csproj.CoreCompileInputs.cache
